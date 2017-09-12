@@ -5,4 +5,4 @@
 
 A simple wrapper around Stuart Sierra's [[https://github.com/stuartsierra/component][Component]].
 
-[[http://clojars.org/eu.cassiel/twizzle][http://clojars.org/net.cassiel/lifecycle/latest-version.svg]]
+[[http://clojars.org/net.cassiel/lifecycle][http://clojars.org/net.cassiel/lifecycle/latest-version.svg]]
