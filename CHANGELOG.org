@@ -1,0 +1,6 @@
+=-*- mode: org; mode: visual-line; -*-=
+#+STARTUP: indent
+
+* CHANGE LOG
+
+- =0.1.0-SNAPSHOT=, 2017-09-12 :: initial release.

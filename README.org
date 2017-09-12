@@ -1,0 +1,8 @@
+=-*- mode: org; mode: visual-line; -*-=
+#+STARTUP: indent
+
+* =lifecycle=
+
+A simple wrapper around Stuart Sierra's [Component](https://github.com/stuartsierra/component).
+
+[[http://clojars.org/eu.cassiel/twizzle][http://clojars.org/eu.cassiel/twizzle/latest-version.svg]]
